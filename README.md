@@ -3,6 +3,9 @@ Builder](http://ci.openstack.org/jenkins-job-builder/) to enable the
 Jenkins [ClamAV
 plugin](https://wiki.jenkins-ci.org/display/JENKINS/ClamAV+Plugin).
 
+[![Code
+Health](https://landscape.io/github/garethr/jenkins-job-builder-clamav/master/landscape.png)](https://landscape.io/github/garethr/jenkins-job-builder-clamav/master)
+
 ## Usage
 
 Include the following in your job definitions.
